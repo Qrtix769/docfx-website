@@ -207,12 +207,12 @@ La documentación técnica de un proyecto tiene varios objetivos importantes:
 
 ### Especificación API
 
-https://qrtix769.github.io/docfx-website/docs/libs/index.html
+https://Havana-Club-International-SJ.github.io/hci-llenado-vaciado-docs/docs/libs/index.html
 
 ### Especificación Havana Tablet
 
-https://qrtix769.github.io/docfx-website/docs/tablet/index.html
+https://Havana-Club-International-SJ.github.io/hci-llenado-vaciado-docs/docs/tablet/index.html
 
 ### Especificación Havana App
 
-https://qrtix769.github.io/docfx-website/docs/linea/index.html
+https://Havana-Club-International-SJ.github.io/hci-llenado-vaciado-docs/docs/linea/index.html
