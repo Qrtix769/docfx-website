@@ -1,4 +1,4 @@
-# Documentación del proyecto Havana_Club_International SJ
+# Documentación del proyecto Havana Club International
 ----------------------------------------------------------
 
 ## Propósito
