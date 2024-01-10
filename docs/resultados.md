@@ -1,8 +1,9 @@
 # Informe Técnico y resultados
+---
 
 ## Mejoras identificadas por equipo de HCI
 
-**Posibles mejoras aplicación APP Línea Llenado-Vaciado**
+### Posibles mejoras aplicación APP Línea Llenado-Vaciado
 
 - Cuando se desea realizar un cambio de lotes es necesario vaciar la línea completa para
 poder realizar el cambio de lote. Se podría buscar una alternativa que permita realizar
@@ -30,7 +31,7 @@ funcionalidad en la aplicación del Tablet que permita de forma manual incorpora
 registro a la base de datos.
 
 
-**Posibles mejoras aplicación HavanaTablet**
+### Posibles mejoras aplicación HavanaTablet
 
 - En la opción “Regrabar Tag”, al leer la información del Tag, los campos: lote, fecha y
 peso deben ser editables para poder introducir o modificar los valores de búsqueda del
@@ -72,7 +73,7 @@ El proyecto posee un esquema de autenticación extremadamente básico, con un ú
 
 ## Problemas identificados
 
-**Deficiencias aplicación HavanaTablet**
+### Deficiencias aplicación HavanaTablet
 
 Luego de la revisión y pruebas de la aplicación HavanaTablet se detectaron un conjunto de no conformidades que no fueron cubiertas por sus desarrolladores (EKINSA) y que en gran medida atentan contra el correcto funcionamiento de la misma. A continuación, se relacionan estas no conformidades:
 
@@ -82,7 +83,7 @@ Luego de la revisión y pruebas de la aplicación HavanaTablet se detectaron un 
 - Cuando el sistema se encuentra procesando una lectura (por ejemplo, realizando una búsqueda en la base de datos) debe mostrar un mensaje indicativo (un loader) que indique que el sistema está procesando una solicitud y el usuario debe permanecer a la espera.
 - Si el lector RFID se desconecta de forma reiterada de la aplicación o esta es reiniciada pueden ocurrir errores de sincronización entre los dispositivos, siendo necesario reiniciar el sistema del Tablet.
 
-**Deficiencias aplicación APP Línea Llenado-Vaciado**
+### Deficiencias aplicación APP Línea Llenado-Vaciado
 
 Luego de la revisión y pruebas de la aplicación App Línea de Llenado Vaciado se detectaron un conjunto de no conformidades que no fueron cubiertas por sus desarrolladores (EKINSA) y que en gran medida atentan contra el correcto funcionamiento del flujo y el almacenamiento de los datos. A continuación, se relacionan estas no conformidades:
 
