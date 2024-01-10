@@ -1,18 +1,16 @@
 # Documentación del proyecto Havana Club International
-----------------------------------------------------------
-
-## Propósito
+-----
 
 El propósito de este informe es documentar los aspectos técnicos referidos a las herramientas utilizadas en la implementación de la aplicación  y   registrar los diferentes diagramas que componen el proceso de la línea de llenado y vaciado de barriles de la empresa Havana Club de La Habana. La aplicación desarrollada por el proveedor Ekinsa, tiene como objetivo principal, captar de forma automática en una base de datos la información asociada al pesaje de las paletas que intervienen en el proceso.
 
 
 ## Dependencias del sistema
 
-Framework 
+### Framework 
 
 - .NetFramework 4.8: Es un entorno de ejecución administrado para Windows que proporciona diversos servicios a las aplicaciones en ejecución. Consta de dos componentes principales: Common Language Runtime (CLR), que es el motor de ejecución que controla las aplicaciones en ejecución, y la biblioteca de clases de .NET Framework, que proporciona una biblioteca de código probado y reutilizable al que pueden llamar los desarrolladores desde sus propias aplicaciones. 
 
-Bibliotecas de terceros
+### Bibliotecas de terceros
 
 - DevExpress: Es una herramienta que ofrece a los desarrolladores de aplicaciones una de las suites más completas de componentes de interfaz de usuario (UI) en todas las plataformas. NET tales como Windows Forms, MVC, ASP.NET, Silverlight y Windows XAML.
 
@@ -49,38 +47,38 @@ En resumen, el objetivo principal de las herramientas de diseño UML es proporci
 
 ## Diagramas 
 
-## Diagrama de clases 
+## Diagramas de clases 
 
 El objetivo principal de los diagramas de clase es representar la estructura estática de un sistema orientado a objetos. Estos diagramas muestran las clases que componen el sistema, sus atributos, métodos y las relaciones entre ellas. El objetivo es proporcionar una visión general del sistema y ayudar a los desarrolladores a comprender cómo las diferentes clases interactúan entre sí. Además, los diagramas de clase también pueden ser utilizados para documentar el diseño del sistema y para comunicar ideas entre los miembros del equipo de desarrollo.
 
-### _Diagramas de clases/ Havana App_
+### _Havana App_
 
-![APp](https://github.com/yoelc745/Documentacion/assets/150778531/6772099d-4977-46f8-9e6c-af9535704e2f)
+![APp](../images/diag-havana-app.png)
 
-### _Diagramas de clases/ Zonas_
+### _Zonas_
 
-![Zona](https://github.com/yoelc745/Documentacion/assets/150778531/33eda5e8-0989-4f37-85f0-c8351d8995d4)
+![Zona](../images/diag-zonas.png)
 
-### _Diagramas de clases/ Visor_
+### _Visor_
 
-![Visor](https://github.com/yoelc745/Documentacion/assets/150778531/1144f0b9-c5a4-4555-b1ae-ade47e3387cd)
+![Visor](../images/diag-visor.png)
 
 
-## Diagrama de flujo
+## Diagramas de flujo
 
 El objetivo principal de los diagramas de flujo es representar gráficamente el flujo de un proceso o procedimiento. Estos diagramas se utilizan para modelar la secuencia de pasos en un proceso, desde el inicio hasta el fin. Los diagramas de flujo permiten identificar los diferentes pasos que se deben seguir en un proceso, así como los posibles caminos alternativos y las decisiones que se deben tomar en cada etapa. Además, los diagramas de flujo también pueden ser utilizados para documentar un proceso y para comunicar ideas entre los miembros del equipo de trabajo. En resumen, el objetivo principal de los diagramas de flujo es proporcionar una vista clara y detallada del proceso y su secuencia de pasos, lo que ayuda a los usuarios a entender cómo funciona el proceso y cómo se deben realizar las diferentes tareas.
 
-### _Diagrama de  flujo/ Entrada Secuencial_
+### _Entrada Secuencial_
 
-![LogicaEntradaSecuencial_1 1 0-1](https://github.com/yoelc745/Documentacion/assets/150778531/9a7c1cb7-5bb5-46ab-adbc-ccf7193651c4)
+![LogicaEntradaSecuencial_1 1 0-1](../images/diag-fl-entrada.png)
 
-### _Diagrama de  flujo/ Salida Secuencial_
+### _Salida Secuencial_
 
-![DiagramaLogicaSalidaSecuencial1 1 0-1](https://github.com/yoelc745/Documentacion/assets/150778531/6488be83-4636-4ecd-855c-6bf0a531e8cf)
+![DiagramaLogicaSalidaSecuencial1 1 0-1](../images/diag-fl-salida.png)
 
-### _Diagrama de  flujo/ Tranfer_
+### _Tranfer_
 
-![DiagramaLogicaTransfer1 0 0-1](https://github.com/yoelc745/Documentacion/assets/150778531/ab6daba3-7bd9-4f20-ad6a-f4eff0193018)
+![DiagramaLogicaTransfer1 0 0-1](../images/diag-fl-transfer.png)
 
 
 ## Diagrama entidad-relación
@@ -88,7 +86,7 @@ El objetivo principal de los diagramas de flujo es representar gráficamente el 
 El objetivo principal de los diagramas entidad-relación (ER) es representar la estructura de datos de un sistema en términos de entidades, atributos y relaciones entre ellas. Estos diagramas son utilizados para modelar la información que se almacena en una base de datos y para definir las reglas de negocio que rigen el comportamiento del sistema. Los diagramas ER permiten identificar las entidades clave en el sistema, así como las relaciones entre ellas, lo que ayuda a los desarrolladores a comprender cómo los datos se relacionan entre sí y cómo se deben almacenar en la base de datos. Además, los diagramas ER también pueden ser utilizados para documentar el diseño del sistema y para comunicar ideas entre los miembros del equipo de desarrollo.
 
 
-![ER](https://github.com/yoelc745/Documentacion/assets/150778531/2aa9762a-d7de-4a35-894a-b0234718e959)
+![ER](../images/diag-ent-rel.png)
 
 
 ## Diagrama de componentes 
@@ -97,7 +95,7 @@ El objetivo principal de los diagramas de componentes es representar la estructu
 En resumen, el objetivo principal de los diagramas de componentes es proporcionar una vista clara y detallada de la estructura del sistema y sus componentes, lo que ayuda a los desarrolladores a entender cómo funciona el sistema y cómo se deben implementar los diferentes componentes.
 
 
-![Coponentes drawio](https://github.com/yoelc745/Documentacion/assets/150778531/08c63023-d53f-4685-8357-57bec727f70a)
+![Coponentes drawio](../images/diag-comp.png)
 
 ## Diagrama de arquitectura  
 
@@ -108,7 +106,11 @@ Es una herramienta para representar la estructura y organización del software, 
 - Ayuda a los equipos a tomar decisiones informadas sobre cómo diseñar y desarrollar el software.
 
 
-![diag-arch-soft](https://github.com/Qrtix769/docfx-website/assets/150778531/7aba6171-180d-441e-bee3-43447b17dca5)
+![diag-arch-soft](../images/diag-arch-soft.jpg)
+
+## Pirámide de automatización
+
+![Pirámide de automatización](../images/auto-pirm.jpg)
 
 
 ## Diagrama de casos de uso 
@@ -117,29 +119,29 @@ El objetivo principal de los diagramas de casos de uso es representar gráficame
 En resumen, el objetivo principal de los diagramas de casos de uso es proporcionar una vista clara y detallada de la funcionalidad del sistema y cómo se relaciona con los usuarios, lo que ayuda a los usuarios a entender cómo utilizar el sistema y cómo se deben realizar las diferentes tareas.
 
 
-![Habana Club](https://github.com/yoelc745/Documentacion/assets/150778531/c005d9b0-1ed8-45b1-bc87-29792dc178a3)
+![Habana Club](../images/diag-uso.png)
 
 
-## Diagrama de secuencia
+## Diagramas de secuencia
 
 El objetivo principal de los diagramas de secuencia es representar gráficamente la interacción entre diferentes objetos o componentes de un sistema en un escenario específico de uso. Estos diagramas se utilizan para modelar el comportamiento del sistema desde el punto de vista de los objetos o componentes que participan en una determinada tarea. Los diagramas de secuencia permiten definir la secuencia de eventos que ocurren durante la ejecución de una tarea, incluyendo la interacción entre los objetos o componentes y los mensajes que se intercambian entre ellos. Además, los diagramas de secuencia también pueden ser utilizados para identificar posibles errores o problemas en la interacción entre los objetos o componentes del sistema, lo que ayuda a mejorar la calidad y eficiencia del mismo. 
 En resumen, el objetivo principal de los diagramas de secuencia es proporcionar una vista detallada y clara de cómo interactúan los diferentes objetos o componentes de un sistema en un escenario específico de uso, lo que ayuda a entender mejor el comportamiento del sistema y a identificar posibles mejoras o problemas en su diseño y funcionamiento.
 
-### _Diagrama de secuencia/ Lógica Báscula_
+### _Lógica Báscula_
 
-![SequenceDiagram BasculaProcess](https://github.com/yoelc745/Documentacion/assets/150778531/95868814-64dd-4196-8bec-4d83a8b21e8d)
+![SequenceDiagram BasculaProcess](../images/diag-sec-bascula.png)
 
-### _Diagrama de secuencia/ Lógica Consola_
+### _Lógica Consola_
 
-![SequenceDiagram Consola](https://github.com/yoelc745/Documentacion/assets/150778531/79ace27e-44d4-429f-984d-4befbb958e1e)
+![SequenceDiagram Consola](../images/diag-sec-consola.png)
 
-### _Diagrama de secuencia/ Lógica Zonas_
+### _Lógica Zonas_
 
-![SequenceDiagram ZonaLinea](https://github.com/yoelc745/Documentacion/assets/150778531/1c542039-36ce-4dd4-a537-2355f71417c8)
+![SequenceDiagram ZonaLinea](../images/diag-sec-zonas.png)
 
-### _Diagrama de secuencia/ Lógica PLC_
+### _Lógica PLC_
 
-![SequenceDiagram WriteVariable](https://github.com/yoelc745/Documentacion/assets/150778531/fc92e63c-9d4f-41da-86a8-5a1bb675d9e3)
+![SequenceDiagram WriteVariable](../images/diag-sec-plc.png)
 
 
 ## Diagrama de actividades
@@ -151,7 +153,7 @@ Los diagramas de actividades permiten definir la secuencia de acciones que se ll
 En resumen, el objetivo principal de los diagramas de actividades es proporcionar una vista detallada y clara del flujo de trabajo o procesos de un sistema, lo que ayuda a entender mejor su funcionamiento y a identificar posibles mejoras o problemas en su diseño y ejecución.
 
 
-![Activity-HCI](https://github.com/yoelc745/Documentacion/assets/150778531/68a6f091-16a5-40b3-b73b-53225935e0b1)
+![Activity-HCI](../images/diag-act.png)
 
 
 ## Documentación técnica
