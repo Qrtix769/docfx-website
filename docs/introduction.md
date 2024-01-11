@@ -73,6 +73,14 @@ El objetivo principal de los diagramas de clase es representar la estructura est
 ![Visor](../images/diag-visor.png)
 </div>
 
+
+### _HavanaTablet_
+
+<div style="width: 100%; display: flex; justify-content: center;">
+
+![Tablet](../images/HabanaAPP.png)
+</div>
+
 ### Diagramas de flujo
 
 El objetivo principal de los diagramas de flujo es representar gráficamente el flujo de un proceso o procedimiento. Estos diagramas se utilizan para modelar la secuencia de pasos en un proceso, desde el inicio hasta el fin. Los diagramas de flujo permiten identificar los diferentes pasos que se deben seguir en un proceso, así como los posibles caminos alternativos y las decisiones que se deben tomar en cada etapa. Además, los diagramas de flujo también pueden ser utilizados para documentar un proceso y para comunicar ideas entre los miembros del equipo de trabajo. En resumen, el objetivo principal de los diagramas de flujo es proporcionar una vista clara y detallada del proceso y su secuencia de pasos, lo que ayuda a los usuarios a entender cómo funciona el proceso y cómo se deben realizar las diferentes tareas.
