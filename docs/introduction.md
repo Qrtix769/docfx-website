@@ -87,23 +87,29 @@ El objetivo principal de los diagramas de flujo es representar gráficamente el 
 
 #### _Entrada Secuencial_
 
-<div style="display: flex; justify-content: center;">
+<div style="width: 100%; display: flex; justify-content: center;">
+<div style="width: 60%">
 
-<img src="../images/diag-fl-entrada.png" alt="LogicaEntradaSecuencial_1 1 0-1" width="60%" />
+![LogicaEntradaSecuencial](../images/diag-fl-entrada.png)
+</div>
 </div>
 
 #### _Salida Secuencial_
 
 <div style="width: 100%; display: flex; justify-content: center;">
+<div style="width: 60%">
 
-<img src="../images/diag-fl-salida.png" alt="DiagramaLogicaSalidaSecuencial1 1 0-1" width="60%" />
+![DiagramaLogicaSalidaSecuencial1](../images/diag-fl-salida.png)
+</div>
 </div>
 
 #### _Tranfer_
 
 <div style="width: 100%; display: flex; justify-content: center;">
+<div style="width: 60%">
 
-<img src="../images/diag-fl-transfer.png" alt="DiagramaLogicaTransfer1 0 0-1" width="60%" />
+![DiagramaLogicaTransfer1](../images/diag-fl-transfer.png)	
+</div>
 </div>
 
 ### Diagrama entidad-relación

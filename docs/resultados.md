@@ -65,7 +65,7 @@ El proyecto está implementado usando la versión 4.8 del .NET Framework. El est
 
 - Resolución de no conformidades existentes.
 
-El proyecto tiene definidas actualmente un grupo de no conformidades que atentan contra el buen funcionamiento del proceso de adquisición y almacenamiento de datos. La resolución puntual de éstas no conformidades constituye una mejora potencial. Dichas resoluciones pueden variar en complejidad, pudiendo requerir grandes modificaciones a la arquitectura del proyecto. La evaluación de dichas complejidades se escapa al ámbito de este documento, y deben ser valoradas puntalmente.
+El proyecto tiene definidas actualmente un grupo de no conformidades que atentan contra el buen funcionamiento del proceso de adquisición y almacenamiento de datos. La resolución puntual de éstas no conformidades constituye una mejora potencial. Dichas resoluciones pueden variar en complejidad, pudiendo requerir grandes modificaciones a la arquitectura del proyecto. La evaluación de dichas complejidades se escapa al ámbito de este documento, y deben ser valoradas puntualmente.
 
 - Implementación de una arquitectura de roles y permisos.
 
