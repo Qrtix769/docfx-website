@@ -74,7 +74,7 @@ El objetivo principal de los diagramas de clase es representar la estructura est
 </div>
 
 
-### _HavanaTablet_
+#### _HavanaTablet_
 
 <div style="width: 100%; display: flex; justify-content: center;">
 
